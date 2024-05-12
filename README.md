@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 👯 Really likes Pokemon (and coding :P)
+### 🔭 Learning to code at FCUL(Faculdade de Ciencias da Universidade de Lisboa)
 
 <!--
 **Sagan36/Sagan36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

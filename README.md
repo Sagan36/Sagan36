@@ -1,5 +1,6 @@
 
-###  Learning to code at FCUL(Faculdade de Ciencias da Universidade de Lisboa)
+### In my sophmore year in FCUL, graduating in IT. 
+### beijos e viva o benfica 
 
 <!--
 **Sagan36/Sagan36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

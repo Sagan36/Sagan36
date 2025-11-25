@@ -1,5 +1,5 @@
 
-### In my sophmore year in FCUL, graduating in IT. 
+### In my final year in FCUL, graduating in IT. 
 ### beijos e viva o benfica 
 
 <!--

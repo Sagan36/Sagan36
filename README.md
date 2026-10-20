@@ -1,5 +1,5 @@
 
-### In my final year in FCUL, graduating in IT. 
+### Mastering in Computer Science
 ### beijos e viva o benfica 
 
 <!--
